@@ -1,3 +1,3 @@
-# Singbet api,crow api,hg api
+# Singbet api,crow api,hg api,皇冠 api
 Telegram:@tg81818
 <img width="760" alt="API" src="https://github.com/user-attachments/assets/c4e2b063-cc8a-4de3-b44c-4ea740f03db0" />
